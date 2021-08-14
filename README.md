@@ -1,4 +1,4 @@
-# pokedex-vue
+# Coins Market
 
 ## Project setup
 ```
